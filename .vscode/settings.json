@@ -1,3 +1,5 @@
 {
-    "github.gitAuthentication": true
+    "github.gitAuthentication": true,
+    "github.gitProtocol": "ssh",
+    "github.experimental.multipleAccounts": true
 }
